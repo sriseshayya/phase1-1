@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"baby.jpg",
+		"name":"ramya.v",
+		"rollno":"12234",
+		"place":"guntur",
+		"gmail":"ramya.vempati"
+
+	},
+	"carrier":{
+		"info":"i want to seek a job in company to use my taughts for benefits for company"
+	},
+	"education":[{
+		"sno":"1",
+		"degree":"b.tech",
+		"institute":"vignan",
+		"per":"85%",
+		"yop":"2019"
+	},
+	{
+		"sno":"2",
+		"degree":"inter",
+		"institute":"chaitanya",
+		"per":"89%",
+		"yop":"2017"
+	},
+	{
+		"sno":"3",
+		"degree":"SSC",
+		"institute":"sindhu",
+		"per":"90%",
+		"yop":"2015"
+	}],
+		"languages":[{
+			"info":"english"
+	},
+	{
+		"info":"telugu"
+	},
+	{
+		"info":"hindi"
+	}]
+}
+	
+
